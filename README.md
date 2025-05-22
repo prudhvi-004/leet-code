@@ -11,4 +11,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prudhvi-004/leet-code/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/prudhvi-004/leet-code/tree/master/0415-add-strings) |
+## String
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/prudhvi-004/leet-code/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/prudhvi-004/leet-code/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
