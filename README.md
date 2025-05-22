@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/prudhvi-004/leet-code/tree/master/0009-palindrome-number) |
 | [0415-add-strings](https://github.com/prudhvi-004/leet-code/tree/master/0415-add-strings) |
 ## String
 |  |
