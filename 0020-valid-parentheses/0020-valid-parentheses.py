@@ -4,13 +4,13 @@ class Solution(object):
         pairs = {')': '(', ']': '[', '}': '{'}
 
         for char in s:
-            if char in pairs.values():  # opening brackets
+            if char in pairs.values(): 
                 stack.append(char)
-            elif char in pairs:  # closing brackets
+            elif char in pairs:  
                 if not stack or stack[-1] != pairs[char]:
                     return False
                 stack.pop()
             else:
-                # Invalid character (optional)
+              
                 return False
         return not stack
