@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prudhvi-004/leet-code/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/prudhvi-004/leet-code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prudhvi-004/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/prudhvi-004/leet-code/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/prudhvi-004/leet-code/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/prudhvi-004/leet-code/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/prudhvi-004/leet-code/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/prudhvi-004/leet-code/tree/master/0415-add-strings) |
 ## String
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/prudhvi-004/leet-code/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/prudhvi-004/leet-code/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/prudhvi-004/leet-code/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
