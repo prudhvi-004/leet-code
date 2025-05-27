@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prudhvi-004/leet-code/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/prudhvi-004/leet-code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prudhvi-004/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/prudhvi-004/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prudhvi-004/leet-code/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prudhvi-004/leet-code/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/prudhvi-004/leet-code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/prudhvi-004/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prudhvi-004/leet-code/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/prudhvi-004/leet-code/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/prudhvi-004/leet-code/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/prudhvi-004/leet-code/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/prudhvi-004/leet-code/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/prudhvi-004/leet-code/tree/master/0415-add-strings) |
 ## String
 |  |
@@ -46,17 +49,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/prudhvi-004/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prudhvi-004/leet-code/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prudhvi-004/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/prudhvi-004/leet-code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/prudhvi-004/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prudhvi-004/leet-code/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prudhvi-004/leet-code/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/prudhvi-004/leet-code/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
