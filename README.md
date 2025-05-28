@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/prudhvi-004/leet-code/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/prudhvi-004/leet-code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/prudhvi-004/leet-code/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/prudhvi-004/leet-code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prudhvi-004/leet-code/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/prudhvi-004/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prudhvi-004/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prudhvi-004/leet-code/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/prudhvi-004/leet-code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/prudhvi-004/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prudhvi-004/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prudhvi-004/leet-code/tree/master/0349-intersection-of-two-arrays) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/prudhvi-004/leet-code/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/prudhvi-004/leet-code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prudhvi-004/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/prudhvi-004/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prudhvi-004/leet-code/tree/master/0268-missing-number) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prudhvi-004/leet-code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prudhvi-004/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -105,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/prudhvi-004/leet-code/tree/master/0032-longest-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prudhvi-004/leet-code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
