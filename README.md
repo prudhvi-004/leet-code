@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prudhvi-004/leet-code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prudhvi-004/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/prudhvi-004/leet-code/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/prudhvi-004/leet-code/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/prudhvi-004/leet-code/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/prudhvi-004/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prudhvi-004/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/prudhvi-004/leet-code/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/prudhvi-004/leet-code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/prudhvi-004/leet-code/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/prudhvi-004/leet-code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prudhvi-004/leet-code/tree/master/0268-missing-number) |
