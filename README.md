@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prudhvi-004/leet-code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/prudhvi-004/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/prudhvi-004/leet-code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/prudhvi-004/leet-code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/prudhvi-004/leet-code/tree/master/0125-valid-palindrome) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prudhvi-004/leet-code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/prudhvi-004/leet-code/tree/master/0032-longest-valid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prudhvi-004/leet-code/tree/master/0209-minimum-size-subarray-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/prudhvi-004/leet-code/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
