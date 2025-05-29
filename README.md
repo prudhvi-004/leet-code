@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prudhvi-004/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prudhvi-004/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/prudhvi-004/leet-code/tree/master/0485-max-consecutive-ones) |
+| [0932-monotonic-array](https://github.com/prudhvi-004/leet-code/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/prudhvi-004/leet-code/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
