@@ -7,7 +7,6 @@ class Solution(object):
         max_len = 0
         left = right = 0
 
-        # Left to right
         for i in range(len(s)):
             if s[i] == '(':
                 left += 1
@@ -17,8 +16,6 @@ class Solution(object):
                 max_len = max(max_len, 2 * right)
             elif right > left:
                 left = right = 0
-
-        # Right to left
         left = right = 0
         for i in range(len(s)-1, -1, -1):
             if s[i] == ')':
