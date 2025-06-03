@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/prudhvi-004/leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/prudhvi-004/leet-code/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/prudhvi-004/leet-code/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/prudhvi-004/leet-code/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/prudhvi-004/leet-code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/prudhvi-004/leet-code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/prudhvi-004/leet-code/tree/master/0075-sort-colors) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/prudhvi-004/leet-code/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/prudhvi-004/leet-code/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/prudhvi-004/leet-code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prudhvi-004/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/prudhvi-004/leet-code/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/prudhvi-004/leet-code/tree/master/0047-permutations-ii) |
 ## Union Find
 |  |
 | ------- |
