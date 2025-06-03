@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/prudhvi-004/leet-code/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/prudhvi-004/leet-code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/prudhvi-004/leet-code/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/prudhvi-004/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/prudhvi-004/leet-code/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prudhvi-004/leet-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/prudhvi-004/leet-code/tree/master/0128-longest-consecutive-sequence) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prudhvi-004/leet-code/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/prudhvi-004/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/prudhvi-004/leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/prudhvi-004/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prudhvi-004/leet-code/tree/master/0217-contains-duplicate) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prudhvi-004/leet-code/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/prudhvi-004/leet-code/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
